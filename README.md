@@ -89,7 +89,7 @@ Model deployed using Streamlit.
 ### 1️⃣ Clone Repository
 
 ```
-git clone gh repo clone sachinsharma19112003/email-spam-classifier
+gh repo clone sachinsharma19112003/email-spam-classifier
 ```
 
 ### 2️⃣ Install Dependencies
