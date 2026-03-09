@@ -124,7 +124,7 @@ Output:
 
 ## 🌐 Deployment Options
 
-The project can be deployed on:
+The project can be deployed on: https://email-spam-classifier-26okxcrgtpuaehgex98cc9.streamlit.app/
 
 * Streamlit Cloud
 
